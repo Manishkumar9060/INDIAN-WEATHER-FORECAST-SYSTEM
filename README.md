@@ -49,6 +49,7 @@ Python 🐍	Backend logic (Flask or FastAPI)
 HTML/CSS 🎨	Frontend UI
 JavaScript ⚙️	Interactivity and typing effects
 Gemini API 🤖	Smart response generation
+
 📸 Screenshot
 <img width="1854" height="697" alt="Screenshot 2025-08-04 212807" src="https://github.com/user-attachments/assets/dccefe1c-862e-41b9-943a-a3886835a251" />
 
